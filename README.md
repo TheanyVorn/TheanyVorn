@@ -1,5 +1,5 @@
 # 💫 About Me:
-A thriving, dedicated, and passionate sophomore majoring in Computer Science at Cambodia Academy of Digital Technology. Currently I am also pursuing an UX/UI Design and Web Development course at Sister of Code. I am actively working on projects to build my skills in this field.<br>
+A thriving, dedicated, and passionate sophomore majoring in Computer Science at Cambodia Academy of Digital Technology. Recently, I just grauated from UX/UI Design and Web Development course at Sister of Code with honors. I am actively working on projects to build my skills in this field.<br>
 
 
 ## 🌐 Socials:
